@@ -80,6 +80,7 @@ plt.xlabel("Annual Income (k$)")
 plt.ylabel("Spending Score (1-100)")
 plt.title("Customer Segmentation using K-Means")
 plt.show()
+
 */
 ```
 
